@@ -8,3 +8,5 @@
 
 `npx webpack --watch`
 
+开发环境推荐使用`cheap-module-source-map`
+
